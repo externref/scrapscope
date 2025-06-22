@@ -1,4 +1,0 @@
-tensorflow[and-cuda]
-fastapi
-ruff
-isort

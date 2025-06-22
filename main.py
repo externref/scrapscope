@@ -1,11 +1,6 @@
-import uvicorn
-
-from src.server import app
-
-
+import os 
 def main():
-    uvicorn.run(app)
-
+   os.system('streamlit run streamlit_app.py')
 
 if __name__ == "__main__":
     main()
