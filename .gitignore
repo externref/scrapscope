@@ -1,1 +1,2 @@
-dataset/
+dataset/**/*.jpg
+dataset/**/*.Identifier
